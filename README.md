@@ -5,10 +5,11 @@
   Mathematics and Computer Science.🎓
 </h3>
 
-- 🔭 I’m currently working on **various personal and collaborative projects
-<br />
-to enhance my skills and build a strong portfolio.** - 💬 Ask me about
-**anything.** - 📫 How to reach me **cristianandrei752@gmail.com**
+- 🔭 I’m currently working on **various personal and collaborative projects to enhance my skills and build a strong portfolio.**
+
+- 💬 Ask me about **anything.**
+
+- 📫 How to reach me **cristianandrei752@gmail.com**
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
