@@ -1,5 +1,5 @@
-<h1 align="center">👋Hello there! I'm Andrei Cristian</h1>
-<h3 align="center">
+<h1 align="left">👋Hello there! I'm Andrei Cristian</h1>
+<h3 align="left">
   A passionate student at the <br />
   University of Bucharest, in <br />
   Mathematics and Computer Science.🎓
