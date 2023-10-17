@@ -44,6 +44,7 @@ to enhance my skills and build a strong portfolio.** - 💬 Ask me about
       height="40"
     />
   </a>
+  <br>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -88,6 +89,7 @@ to enhance my skills and build a strong portfolio.** - 💬 Ask me about
       height="40"
     />
   </a>
+  <br>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
