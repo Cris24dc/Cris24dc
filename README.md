@@ -1,8 +1,8 @@
 <h1 align="left">👋Hello there! I'm Andrei Cristian</h1>
-<h3 align="left">
+<h3 align="center">
   A passionate student at the <br />
   University of Bucharest, in <br />
-  Mathematics and Computer Science.🎓
+  Mathematics and Computer Science🎓
 </h3>
 
 ---
