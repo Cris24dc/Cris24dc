@@ -15,7 +15,8 @@
 
 ---
 
-<h2 align="center">Projects:</h2>
+<h1 align="center">Projects:</h1>
+<br>
 <h3 align="center"><a href="https://coffee-menu-a9141bd96774.herokuapp.com/">Coffee Menu</a></h3>
 
 ---
