@@ -16,7 +16,7 @@
 ---
 
 <h3 align="center">Projects:</h3>
-<p><a href="https://coffee-menu-a9141bd96774.herokuapp.com/">Coffee Menu</a></p>
+- <p align="center"><a href="https://coffee-menu-a9141bd96774.herokuapp.com/">Coffee Menu</a></p>
 
 ---
 
