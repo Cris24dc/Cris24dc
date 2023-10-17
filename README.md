@@ -17,6 +17,7 @@
 
 <h3 align="center">Projects:</h3>
 <p><a href="https://coffee-menu-a9141bd96774.herokuapp.com/">Coffee Menu</a></p>
+
 ---
 
 <h3 align="center">Languages and Tools:</h3>
