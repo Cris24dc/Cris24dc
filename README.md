@@ -5,11 +5,15 @@
   Mathematics and Computer Science.🎓
 </h3>
 
+---
+
 - 🔭 I’m currently working on **various personal and collaborative projects to enhance my skills and build a strong portfolio.**
 
 - 💬 Ask me about **anything.**
 
 - 📫 How to reach me **cristianandrei752@gmail.com**
+
+---
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -107,13 +111,4 @@
       height="40"
     />
   </a>
-</p>
-
----
-
-<h3 align="center"> 🚀 Github Stats </h3>
-
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=Steven23X&show_icons=true&theme=chartreuse-dark&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Steven23X&theme=chartreuse-dark&layout=compact">
 </p>
