@@ -7,11 +7,11 @@
 
 ---
 
-- 🔭 I’m currently working on **various personal and collaborative projects to enhance my skills and build a strong portfolio.**
+- 🔭 I’m currently working on **various personal and collaborative projects to enhance my skills.**
 
 - 💬 Ask me about **anything.**
 
-- 📫 How to reach me **cristianandrei752@gmail.com**
+- 📫 How to reach me: **cristianandrei752@gmail.com**
 
 ---
 
