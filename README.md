@@ -1,6 +1,6 @@
 <h1 align="left">👋Hello there! I'm Andrei Cristian</h1>
 <p align="left">
-  A passionate student at the <br />
+  A passionate year 1 student at the <br />
   University of Bucharest, in <br />
   Mathematics and Computer Science🎓
 </p>
