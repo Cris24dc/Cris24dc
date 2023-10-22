@@ -16,9 +16,9 @@
 ---
 
 <h1 align="center">Projects:</h1>
-<h3 align="center"><a href="https://mywallet-16c35c459fcf.herokuapp.com/">MyWallet</a></h3>
-<h3 align="center"><a href="https://coffee-menu-a9141bd96774.herokuapp.com/">Coffee Menu</a></h3>
-<h3 align="center"><a href="https://littleapps-32fcee8d2990.herokuapp.com/">Little Apps</a></h3>
+<h3 align="center"><a href="https://drab-blue-starfish-ring.cyclic.app">MyWallet</a></h3>
+<h3 align="center"><a href="https://coffee-menu-liard.vercel.app/">Coffee Menu</a></h3>
+<h3 align="center"><a href="https://little-apps.vercel.app/">Little Apps</a></h3>
 
 ---
 
