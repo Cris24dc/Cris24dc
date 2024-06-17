@@ -5,7 +5,7 @@
   Mathematics and Computer Science🎓
 </p>
 
-<img src="https://media.tenor.com/AmKNigEw_koAAAAC/create-pc.gif">
+<iframe src="https://giphy.com/embed/mcdvQOFRQmwdUrSYAe" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/glitch-computer-glitchy-mcdvQOFRQmwdUrSYAe">via GIPHY</a></p>
 
 ---
 
