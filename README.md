@@ -5,6 +5,8 @@
   Mathematics and Computer Science🎓
 </p>
 
+<img src="https://media.tenor.com/AmKNigEw_koAAAAC/create-pc.gif">
+
 ---
 
 - 🔭 I’m currently working on **various personal and collaborative projects to enhance my skills.**
