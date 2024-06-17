@@ -5,7 +5,7 @@
   Mathematics and Computer Science🎓
 </p>
 
-<img src="./pc.gif">
+<img src="./pc.gif" align="right" width="200">
 
 ---
 
