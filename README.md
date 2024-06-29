@@ -8,9 +8,9 @@
 <h2 align="left">🧑‍💻 About Me</h2>
 <img src="./pc.gif" align="right" width="200">
 
-- 🌱 I’m currently working on **various personal and collaborative projects to enhance my skills.**
+- 🌱 I’m currently working on **various personal and collaborative projects to enhance my skills**
 - 📟 Exploring **Low-Level Programming**
-- 🔐 Interested in **cybersecurity** topics such as: **Reverse Engineering, Binary Exploitation, Code Injection, and Symbolic Execution**
+- 🔐 Interested in **Cybersecurity** topics such as: **Reverse Engineering, Binary Exploitation, Code Injection, and Symbolic Execution**
 
 <h2 align="left">🔧 Technologies & Tools</h2>
 <p align="left"> 
