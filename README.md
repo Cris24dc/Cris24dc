@@ -6,12 +6,11 @@
 </p>
 
 <h2 align="left">🧑‍💻 About Me</h2>
-<p align="left">
-  - 🌱 I’m currently working on <strong>various personal and collaborative projects to enhance my skills.</strong><br>
-  - 📟 Exploring <strong>Low-Level Programming</strong><br>
-  - 🔐 Interested in <strong>cybersecurity</strong> topics such as: <strong>Reverse Engineering, Binary Exploitation, Code Injection, and Symbolic Execution</strong>
-</p>
-<img src="./pc.gif" align="right" width="200" style="margin-left: 20px; margin-bottom: 20px;">
+<img src="./pc.gif" align="right" width="200">
+
+- 🌱 I’m currently working on **various personal and collaborative projects to enhance my skills.**
+- 📟 Exploring **Low-Level Programming**
+- 🔐 Interested in **cybersecurity** topics such as: **Reverse Engineering, Binary Exploitation, Code Injection, and Symbolic Execution**
 
 <h2 align="left">🔧 Technologies & Tools</h2>
 <p align="left"> 
