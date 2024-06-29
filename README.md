@@ -1,11 +1,12 @@
-<h1 align="left">👋Hello there! I'm Andrei Cristian</h1>
+<h1 align="left">👋Hi there! I'm Andrei Cristian</h1>
+<h2 align="left">About me: </h2>
 <p align="left">
   A passionate year 1 student at the <br />
   University of Bucharest, in <br />
   Mathematics and Computer Science🎓
 </p>
 
-<img src="./pc.gif" align="right" width="200">
+<img src="./pc.gif" align="right" width="300">
 
 ---
 
