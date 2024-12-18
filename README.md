@@ -11,13 +11,17 @@
 - 🌱 I’m currently working on **various personal and
   <br />
   collaborative projects to enhance my skills**
+  <br />
 - 📟 Exploring **Low-Level Programming**
+  <br />
 - 🔐 Interested in **Cybersecurity** topics such as:
   <br />
   **Reverse Engineering, Binary Exploitation, Cryptography**
+  <br />
 - 🏆 I enjoy participating in **CTFs**
   <br />
   to challenge my skills and learn new things
+  <br />
 
 <h2 align="left">🔧 Technologies & Tools</h2>
 <p align="left"> 
