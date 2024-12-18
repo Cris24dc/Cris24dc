@@ -15,6 +15,9 @@
 - 🔐 Interested in **Cybersecurity** topics such as:
   <br />
   **Reverse Engineering, Binary Exploitation, Cryptography**
+- 🏆 I enjoy participating in **CTFs**
+  <br />
+  to challenge my skills and learn new things
 
 <h2 align="left">🔧 Technologies & Tools</h2>
 <p align="left"> 
