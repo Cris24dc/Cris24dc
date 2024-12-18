@@ -9,9 +9,11 @@
 <img src="./pc.gif" align="right" width="200">
 
 - 🌱 I’m currently working on **various personal and
+  <br />
   collaborative projects to enhance my skills**
 - 📟 Exploring **Low-Level Programming**
 - 🔐 Interested in **Cybersecurity** topics such as:
+  <br />
   **Reverse Engineering, Binary Exploitation, Cryptography**
 
 <h2 align="left">🔧 Technologies & Tools</h2>
