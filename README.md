@@ -1,8 +1,8 @@
 <h1 align="left">👋 Hi there! I'm Andrei Cristian</h1>
 <p align="left">
-  A passionate year 3 student from the <br />
-  Faculty of Mathematics and Computer Science,<br />
-  at the University of Bucharest 🎓
+🎓 Third-year student at the <br />
+Faculty of Mathematics and Computer Science, <br />
+University of Bucharest
 </p>
 
 <h2 align="left">🧑‍💻 About Me</h2>
