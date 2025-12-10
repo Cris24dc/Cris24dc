@@ -39,6 +39,3 @@ University of Bucharest
 </p>
 
 <h2 align="left">📊 GitHub Stats</h2>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matoka26&layout=compact&theme=radical" alt="Matoka26's Top Languages" />
-</p>
