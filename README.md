@@ -39,3 +39,6 @@ University of Bucharest
 </p>
 
 <h2 align="left">📊 GitHub Stats</h2>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cris24dc&layout=compact&theme=radical" alt="Cris24dc Top Languages" />
+</p>
