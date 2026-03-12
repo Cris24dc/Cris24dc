@@ -1,27 +1,24 @@
-<table border="0">
-  <tr>
-    <td>
-      <h1>👋 Hi there! I'm Andrei Cristian</h1>
-      <p>
-        🎓 Third-year student at the <br />
-        Faculty of Mathematics and Computer Science, <br />
-        University of Bucharest
-      </p>
-    </td>
-    <td align="right">
-      <img src="./pc.gif" width="300">
-    </td>
-  </tr>
-</table>
+<img src="./pc.gif" align="right" width="300">
 
-<h2>🧑‍💻 About Me</h2>
+<h3>👋 Hi there! I'm Andrei Cristian</h3>
+
+<p>
+  🎓 Third-year student at the <br />
+  Faculty of Mathematics and Computer Science, <br />
+  University of Bucharest
+</p>
+
+<br />
+
+<h3>🧑‍💻 About Me</h3>
 
 - 🌱 I’m currently working on **various personal and collaborative projects to enhance my skills**
 - 📟 Exploring **Low-Level Programming**
 - 🔐 Interested in **Cybersecurity** topics such as:
   **Reverse Engineering, Binary Exploitation, Cryptography**
 
-<h2>🔧 Technologies & Tools</h2>
+<h3>🔧 Technologies & Tools</h3>
+
 <p align="left">
   <img src="https://github.com/Matoka26/Matoka26/assets/106425405/3281fd3e-d8cd-4943-9ab7-20f3fa4effe2" width="35" height="40" alt="C">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -36,17 +33,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.gh/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
 </p>
 
-<h2>📊 Stats</h2>
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cris24dc&layout=compact&theme=radical" alt="Cris24dc Top Languages" />
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://tryhackme-badges.s3.amazonaws.com/Cris24dc.png" alt="TryHackMe Badge" />
-    </td>
-  </tr>
-</table>
+<h3>📊 Stats</h3>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cris24dc&layout=compact&theme=radical" height="180" />
+  &nbsp;&nbsp;
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Cris24dc.png" height="180" alt="TryHackMe Badge" />
+</p>
