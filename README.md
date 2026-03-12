@@ -10,10 +10,9 @@
 
 <h3>🧑‍💻 About Me</h3>
 
-- 🌱 I’m currently working on **various personal and collaborative projects to enhance my skills**
-- 📟 Exploring **Low-Level Programming**
-- 🔐 Interested in **Cybersecurity** topics such as:
-  **Reverse Engineering, Binary Exploitation, Cryptography**
+- 🛡️ Deeply passionate about **Cybersecurity**: Forensics, Pentesting, Binary Exploitation, Cryptography, Reverse Engineering
+- 🧠 Dedicated to **Machine Learning** and **Data Science**
+- 📟 Exploring the intricacies of **Low-Level Programming**
 
 <h3>🔧 Technologies & Tools</h3>
 
@@ -21,7 +20,6 @@
   <img src="https://github.com/Matoka26/Matoka26/assets/106425405/3281fd3e-d8cd-4943-9ab7-20f3fa4effe2" width="35" height="40" alt="C">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="haskell logo" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
