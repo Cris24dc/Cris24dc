@@ -42,3 +42,6 @@ University of Bucharest
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cris24dc&layout=compact&theme=radical" alt="Cris24dc Top Languages" />
 </p>
+
+<h2 align="left">🧰 TryHackMe</h2>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=307821" style='border:none;'></iframe>
