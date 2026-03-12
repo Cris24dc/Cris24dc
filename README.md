@@ -44,4 +44,5 @@ University of Bucharest
 </p>
 
 <h2 align="left">🧰 TryHackMe</h2>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=307821" style='border:none;'></iframe>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Cris24dc.png" alt="Your Image Badge" />
+</p>
