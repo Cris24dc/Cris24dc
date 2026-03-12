@@ -39,5 +39,5 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cris24dc&layout=compact&theme=radical" height="180" />
   &nbsp;&nbsp;
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Cris24dc.png" height="180" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Cris24dc.png" height="180" alt="Your Image Badge" />
 </p>
