@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hi there! I'm Andrei Cristian</h1>
-<img src="./pc.gif" align="right" width="200">
+<img src="./pc.gif" align="right" width="300">
 <p align="left">
 🎓 Third-year student at the <br />
 Faculty of Mathematics and Computer Science, <br />
