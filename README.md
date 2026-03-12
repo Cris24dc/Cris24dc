@@ -26,18 +26,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <br>
+  <img src="https://img.icons8.com/color/512/numpy.png" alt="Numpy" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/512/pandas.png" alt="Pandas" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/600/matplotlib.png" alt="Matplotlib" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Scikitlearn" width="40" height="40"/>
+  <img src="https://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo.png" height="40" alt="pytorch" />
+  <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
   <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo" />
   <img src="https://cdn.prod.website-files.com/66754aa69a5d872183713f9c/672dfced5422c158fb5a6002_mysql%20logo.png" height="40" alt="mysql logo" />
-  <br>
-  <img src="https://w7.pngwing.com/pngs/811/893/png-transparent-numpy-hd-logo.png" alt="Numpy" width="40" height="40"/> 
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" alt="Pandas" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/600/matplotlib.png" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Scikitlearn" width="40" height="40"/>
-  <img src="https://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo.png" height="40" alt="pytorch" />
 </p>
 
 <h3>📊 Stats</h3>
