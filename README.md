@@ -1,4 +1,4 @@
-<img src="./pc.gif" align="right" width="300">
+<img src="./pc.gif" align="right" width="250">
 
 <h3>👋 Hi there! I'm Andrei Cristian</h3>
 
@@ -7,8 +7,6 @@
   Faculty of Mathematics and Computer Science, <br />
   University of Bucharest
 </p>
-
-<br />
 
 <h3>🧑‍💻 About Me</h3>
 
