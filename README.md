@@ -29,6 +29,7 @@
   <img src="https://img.icons8.com/color/600/matplotlib.png" alt="Matplotlib" width="40" height="40"/>
   <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Scikitlearn" width="40" height="40"/>
   <img src="https://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo.png" height="40" alt="pytorch" />
+  <img src="https://i0.wp.com/www.craigperler.com/blog/wp-content/uploads/2016/11/scrapy.webp?fit=300%2C300&ssl=1" height="40" alt="scrapy" />
   <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
   <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
