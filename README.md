@@ -1,4 +1,4 @@
-<img src="./pc.gif" align="right" width="250">
+ <img src="./pc.gif" align="right" width="250">
 
 <h3>👋 Hi there! I'm Andrei Cristian</h3>
 
@@ -44,5 +44,5 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cris24dc&layout=compact&theme=radical" height="180" />
   &nbsp;&nbsp;
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Cris24dc.png" height="180" alt="Your Image Badge" />
+  <!-- <img src="https://tryhackme-badges.s3.amazonaws.com/Cris24dc.png" height="180" alt="Your Image Badge" /> -->
 </p>
