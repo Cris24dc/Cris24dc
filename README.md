@@ -42,8 +42,8 @@
 <h3>📊 Stats</h3>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Matoka26&theme=dracula" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cris24dc&theme=dracula&show_icons=true&hide_langs_below=1" alt="Top Languages" />
   &nbsp;&nbsp;
  
-  <!-- <img src="https://tryhackme-badges.s3.amazonaws.com/Cris24dc.png" height="180" alt="Your Image Badge" /> -->
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Cris24dc.png" height="180" alt="Your Image Badge" />
 </p>
