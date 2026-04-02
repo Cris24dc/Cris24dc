@@ -42,7 +42,7 @@
 <h3>📊 Stats</h3>
 
 <p align="left">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cris24dc)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cris24dc&theme=dracula" alt="GitHub Streak" height="150" />
   &nbsp;&nbsp;
  
   <!-- <img src="https://tryhackme-badges.s3.amazonaws.com/Cris24dc.png" height="180" alt="Your Image Badge" /> -->
