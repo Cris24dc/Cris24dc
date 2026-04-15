@@ -14,7 +14,7 @@
 - 🧠 Dedicated to **Machine Learning** and **Data Science**
 - 📟 Exploring the intricacies of **Low-Level Programming**
 
-<h3>🔧 Technologies & Tools</h3>
+<!-- <h3>🔧 Technologies & Tools</h3>
 
 <p align="left">
   <img src="https://github.com/Matoka26/Matoka26/assets/106425405/3281fd3e-d8cd-4943-9ab7-20f3fa4effe2" width="35" height="40" alt="C">
@@ -46,4 +46,4 @@
   &nbsp;&nbsp;
  
   <img src="https://tryhackme-badges.s3.amazonaws.com/Cris24dc.png" height="180" alt="Your Image Badge" />
-</p>
+</p> -->
