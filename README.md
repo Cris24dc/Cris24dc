@@ -16,37 +16,33 @@
 
 <h3>🔧 Technologies & Tools</h3>
 
-<p>
-  <img align="absmiddle" src="https://github.com/Matoka26/Matoka26/assets/106425405/3281fd3e-d8cd-4943-9ab7-20f3fa4effe2" width="35" height="40" alt="C">
-  <img align="absmiddle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img align="absmiddle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img align="absmiddle" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img align="absmiddle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img align="absmiddle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-</p>
-
-<p>
-  <img align="absmiddle" src="https://i0.wp.com/www.craigperler.com/blog/wp-content/uploads/2016/11/scrapy.webp?fit=300%2C300&ssl=1" height="40" alt="scrapy" />
-  <img align="absmiddle" src="https://img.icons8.com/color/512/numpy.png" alt="Numpy" width="40" height="40"/>
-  <img align="absmiddle" src="https://img.icons8.com/color/512/pandas.png" alt="Pandas" width="40" height="40"/>
-  <img align="absmiddle" src="https://img.icons8.com/color/600/matplotlib.png" alt="Matplotlib" width="40" height="40"/>
-  <img align="absmiddle" src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Scikitlearn" width="40" height="40"/>
-  <img align="absmiddle" src="https://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo.png" height="40" alt="pytorch" />
-</p>
-
-<p>
-  <img align="absmiddle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img align="absmiddle" src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
-  <img align="absmiddle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img align="absmiddle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img align="absmiddle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo" />
-  <img align="absmiddle" src="https://cdn.prod.website-files.com/66754aa69a5d872183713f9c/672dfced5422c158fb5a6002_mysql%20logo.png" height="40" alt="mysql logo" />
+<p align="left">
+  <img src="./icons/c.svg" width="40" height="40">
+  <img src="./icons/cpp.svg" width="40" height="40">
+  <img src="./icons/python.svg" width="40" height="40">
+  <img src="./icons/git.svg" width="40" height="40">
+  <img src="./icons/linux.svg" width="40" height="40">
+  <img src="./icons/docker.svg" width="40" height="40">
+  <br><br>
+  <img src="./icons/scrapy.svg" width="40" height="40">
+  <img src="./icons/numpy.svg" width="40" height="40">
+  <img src="./icons/pandas.svg" width="40" height="40">
+  <img src="./icons/matplotlib.svg" width="40" height="40">
+  <img src="./icons/scikitlearn.svg" width="40" height="40">
+  <img src="./icons/pytorch.svg" width="40" height="40">
+  <br><br>
+  <img src="./icons/javascript.svg" width="40" height="40">
+  <img src="./icons/nodejs.svg" width="40" height="40">
+  <img src="./icons/react.svg" width="40" height="40">
+  <img src="./icons/css3.svg" width="40" height="40">
+  <img src="./icons/dotnetcore.svg" width="40" height="40">
+  <img src="./icons/mysql.svg" width="40" height="40">
 </p>
 
 <h3>📊 Stats</h3>
 
 <p align="left">
-  <img align="absmiddle" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cris24dc&theme=dracula" height="180" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cris24dc&theme=dracula" height="180">
   &nbsp;&nbsp;
-  <img align="absmiddle" src="https://tryhackme-badges.s3.amazonaws.com/Cris24dc.png" height="180" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Cris24dc.png" height="180">
 </p>
