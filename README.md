@@ -17,32 +17,24 @@
 <h3>🔧 Technologies & Tools</h3>
 
 <p align="left">
-  <img src="./icons/c.svg" width="40" height="40">
-  <img src="./icons/cpp.svg" width="40" height="40">
-  <img src="./icons/python.svg" width="40" height="40">
-  <img src="./icons/git.svg" width="40" height="40">
-  <img src="./icons/linux.svg" width="40" height="40">
-  <img src="./icons/docker.svg" width="40" height="40">
+  <img src="./img/c.png" width="40" height="40">
+  <img src="./img/cpp.png" width="40" height="40">
+  <img src="./img/python.png" width="40" height="40">
+  <img src="./img/git.png" width="40" height="40">
+  <img src="./img/linux.png" width="40" height="40">
+  <img src="./img/docker.png" width="40" height="40">
   <br><br>
-  <img src="./icons/scrapy.svg" width="40" height="40">
-  <img src="./icons/numpy.svg" width="40" height="40">
-  <img src="./icons/pandas.svg" width="40" height="40">
-  <img src="./icons/matplotlib.svg" width="40" height="40">
-  <img src="./icons/scikitlearn.svg" width="40" height="40">
-  <img src="./icons/pytorch.svg" width="40" height="40">
+  <img src="./img/scrapy.png" width="40" height="40">
+  <img src="./img/numpy.png" width="40" height="40">
+  <img src="./img/pandas.png" width="40" height="40">
+  <img src="./img/matplotlib.png" width="40" height="40">
+  <img src="./img/scikitlearn.png" width="40" height="40">
+  <img src="./img/pytorch.png" width="40" height="40">
   <br><br>
-  <img src="./icons/javascript.svg" width="40" height="40">
-  <img src="./icons/nodejs.svg" width="40" height="40">
-  <img src="./icons/react.svg" width="40" height="40">
-  <img src="./icons/css3.svg" width="40" height="40">
-  <img src="./icons/dotnetcore.svg" width="40" height="40">
-  <img src="./icons/mysql.svg" width="40" height="40">
-</p>
-
-<h3>📊 Stats</h3>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cris24dc&theme=dracula" height="180">
-  &nbsp;&nbsp;
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Cris24dc.png" height="180">
+  <img src="./img/javascript.png" width="40" height="40">
+  <img src="./img/nodejs.png" width="40" height="40">
+  <img src="./img/react.png" width="40" height="40">
+  <img src="./img/css3.png" width="40" height="40">
+  <img src="./img/dotnetcore.png" width="40" height="40">
+  <img src="./img/mysql.png" width="40" height="40">
 </p>
